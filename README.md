@@ -53,7 +53,7 @@ Machine Learning Engineer and Computer Vision Researcher with 8+ years of experi
 
 - **Research Assistant**, Sogang University, Korea (2026–present)  
   - Focus: 3D reconstruction, Multimodal Generation, Image Processing
-  - 
+  
 - **Research Assistant**, Seoul National University of Science & Technology, Korea (2018–2021)  
   - Focus: 3D clothing reconstruction, virtual try-on, fashion AI  
   - 5+ peer-reviewed papers, CVPRW/ACCV/IEEE Access
