@@ -2,14 +2,14 @@
 
 ✉ minar09.bd@gmail.com  
 🌐 [Portfolio](https://minar09.github.io/)  
-📍 Gazipur, Bangladesh  
-[LinkedIn](https://linkedin.com/in/minar09) | [GitHub](https://github.com/minar09)
+📍 Seoul, Korea  
+[LinkedIn](https://linkedin.com/in/minar09) | [GitHub](https://github.com/minar09) | [X](https://x.com/minar09)
 
 ---
 
 ## Profile Summary
 
-Senior Machine Learning Engineer and Computer Vision Researcher with 8+ years of experience bridging AI innovation, software engineering, and large-scale production deployments. Specialized in Computer Vision, Deep Learning, Large Language Models (LLMs), 3D Vision, and Geospatial AI. Demonstrated leadership in GCC/MENA-aligned projects (Saudi Vision 2030, UAE Smart Cities), including digital twins for energy, AI-driven drug discovery, and smart city solutions. Published 5+ papers at top computer vision venues (CVPRW, ACCV, IEEE Access), and recipient of multiple industry awards. Proficient in English, Arabic, and Bengali, with global team leadership across 4+ countries.
+Machine Learning Engineer and Computer Vision Researcher with 8+ years of experience bridging AI innovation, software engineering, and large-scale production deployments. Specialized in Computer Vision, Deep Learning, Large Language Models (LLMs), 3D Vision, and Geospatial AI. Demonstrated leadership in GCC/MENA-aligned projects (Saudi Vision 2030, UAE Smart Cities), including digital twins for energy, AI-driven drug discovery, and smart city solutions. Published 5+ papers at top computer vision venues (CVPRW, ACCV, IEEE Access), and recipient of multiple industry awards. Proficient in English, Arabic, and Bengali, with global team leadership across 4+ countries.
 
 ---
 
@@ -27,7 +27,7 @@ Senior Machine Learning Engineer and Computer Vision Researcher with 8+ years of
 ## Professional Experience
 
 - **Deep Learning Engineer**  
-  Alteredverse Pte Ltd., Singapore (Remote) | May 2023–Present  
+  Alteredverse Pte Ltd., Singapore (Remote) | May 2023–Feb 2026  
   - Built 3D vision pipelines and digital twins for energy infrastructure (30% cost reduction)
   - Deployed LLM-powered AI agents/NPCs for virtual malls (40% engagement boost)
   - Tech: PyTorch, TensorFlow, Open3D, LLMs, GCP, AWS
@@ -51,13 +51,19 @@ Senior Machine Learning Engineer and Computer Vision Researcher with 8+ years of
 
 ## Research Experience
 
-- **Research Assistant**, Seoul National University of Science & Technology, Korea (2019–2021)  
+- **Research Assistant**, Sogang University, Korea (2026–present)  
+  - Focus: 3D reconstruction, Multimodal Generation, Image Processing
+  - 
+- **Research Assistant**, Seoul National University of Science & Technology, Korea (2018–2021)  
   - Focus: 3D clothing reconstruction, virtual try-on, fashion AI  
   - 5+ peer-reviewed papers, CVPRW/ACCV/IEEE Access
 
 ---
 
 ## Education
+
+- **Ph.D. in Computer Science & Engineering**  
+  Sogang University, Korea | 2026–present  
 
 - **M.S. in Electrical & Information Engineering**  
   Seoul National University of Science & Technology, Korea | 2019–2021  
@@ -92,4 +98,5 @@ Senior Machine Learning Engineer and Computer Vision Researcher with 8+ years of
 
 - [LinkedIn](https://linkedin.com/in/minar09)
 - [GitHub](https://github.com/minar09)
+- [X](https://x.com/minar09)
 - [Portfolio](https://minar09.github.io/)
