@@ -9,7 +9,7 @@
 
 ## Profile Summary
 
-Machine Learning Engineer and Computer Vision Researcher with 8+ years of experience bridging AI innovation, software engineering, and large-scale production deployments. Specialized in Computer Vision, Deep Learning, Large Language Models (LLMs), 3D Vision, and Geospatial AI. Demonstrated leadership in GCC/MENA-aligned projects (Saudi Vision 2030, UAE Smart Cities), including digital twins for energy, AI-driven drug discovery, and smart city solutions. Published 5+ papers at top computer vision venues (CVPRW, ACCV, IEEE Access), and recipient of multiple industry awards. Proficient in English, Arabic, and Bengali, with global team leadership across 4+ countries.
+Machine Learning Engineer and Computer Vision Researcher with 8+ years of experience bridging AI innovation, software engineering, and large-scale production deployments. Specialized in Computer Vision, Deep Learning, Large Language Models (LLMs), 3D Vision, and Geospatial AI. Demonstrated leadership in diverse AI/ML projects, including digital twins for virtual shopping, AI-driven drug discovery, and smart city solutions. Published 5+ papers at top computer vision venues (CVPRW, ACCV, IEEE Access), and recipient of multiple industry awards. Proficient in English, Arabic, and Bengali, with global team leadership across 4+ countries.
 
 ---
 
